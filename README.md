@@ -11,3 +11,8 @@ Visualizing Bi Encoder Attention: https://www.kaggle.com/code/sakharam/visualizi
 Visualizing Cross Encoder Attention: https://www.kaggle.com/code/sakharam/visualizing-cross-encoder-attention-using-bertviz
 
 Text Representation using Bi-Encoder and Cross-Encoder: https://www.kaggle.com/code/sakharam/bi-encoder-and-cross-encoder
+
+## S04: Storing & Searching Efficiently
+
+### Lab
+FAISS: https://www.kaggle.com/code/sakharam/ann-speeding-up-retrieval-ivf-hnsw
