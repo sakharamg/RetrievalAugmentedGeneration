@@ -16,3 +16,6 @@ Text Representation using Bi-Encoder and Cross-Encoder: https://www.kaggle.com/c
 
 ### Lab
 FAISS: https://www.kaggle.com/code/sakharam/ann-speeding-up-retrieval-ivf-hnsw
+
+### Resources
+HNSW: https://www.youtube.com/watch?v=chz74Mtd1AA
