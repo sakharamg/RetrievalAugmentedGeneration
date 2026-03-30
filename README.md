@@ -19,3 +19,8 @@ FAISS: https://www.kaggle.com/code/sakharam/ann-speeding-up-retrieval-ivf-hnsw
 
 ### Resources
 HNSW: https://www.youtube.com/watch?v=chz74Mtd1AA
+
+## S05: Making Retrieval Meaningful: From Raw Text to Useful Context
+
+### Lab
+Chunking Strategies using ChromaDB: https://www.kaggle.com/code/sakharam/chunking-strategies-chromadb
